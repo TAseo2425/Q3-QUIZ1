@@ -1,0 +1,27 @@
+body{
+	background-color: #cae9ff;
+	color: #083d77;
+	font-family: "Fira Code", serif;
+	  font-optical-sizing: auto;
+	  font-weight: 100;
+	  font-style: normal;
+}
+.complete{
+	margin: 70px;
+	padding: 30px;
+	background: rgba(248, 248, 255, 0.3) ;
+	border-radius: 30px;
+	text-align: center;
+}
+#refresh{
+	padding: 30px;
+}
+footer{
+  position: fixed;
+  margin: 5px;
+  bottom: 0;
+  width: 100%;
+  outline-color: #7199bf;
+  color: #33415c;
+  text-align: center;
+} 
